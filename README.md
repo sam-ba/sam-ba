@@ -12,6 +12,8 @@
 - 🤔 I’m currently reading Engineering Management for the Rest of Us by Sarah Drasner (https://www.engmanagement.dev/). Check it out if interested.
 - 🌱I also volunteer with the Black in Robotics organization (https://blackinrobotics.org/) in their summer workshops helping young black kids get interested in STEM.
 - 📫 How to reach me: biokposamuel@gmail.com
+- 😄 Pronouns: He/Him.
+- 🏫 I’m currently learning public speaking through my local Toastmasters club.
 
 
 ### 🖥 Skills
