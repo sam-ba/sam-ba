@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 💻 Tech Lead at Lyric Chief (https://www.lyricchief.com/). Owning and defining the technical vision of Africa’s first verified music lyrics platform to help artists and songwriters grow and help the world hear more great music.
+- 💻 Safety Software Developer at GM working on Level 2 Automated Vehicles + Tech Lead at Lyric Chief (https://www.lyricchief.com/) owning and defining the technical vision of Africa’s first verified music lyrics platform to help artists and songwriters grow and help the world hear more great music.
 - 🤔 I’m currently reading Engineering Management for the Rest of Us by Sarah Drasner (https://www.engmanagement.dev/). Check it out if interested.
 - 🌱I also volunteer with the Black in Robotics organization (https://blackinrobotics.org/) in their summer workshops helping young black kids get interested in STEM.
 - 📫 How to reach me: biokposamuel@gmail.com
